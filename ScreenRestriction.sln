@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenRestriction", "ScreenRestriction\ScreenRestriction.csproj", "{240DBFAF-1699-4F9E-942D-CDCA13137B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240DBFAF-1699-4F9E-942D-CDCA13137B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240DBFAF-1699-4F9E-942D-CDCA13137B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240DBFAF-1699-4F9E-942D-CDCA13137B97}.Debug|x64.ActiveCfg = Debug|x64
+		{240DBFAF-1699-4F9E-942D-CDCA13137B97}.Debug|x64.Build.0 = Debug|x64
+		{240DBFAF-1699-4F9E-942D-CDCA13137B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240DBFAF-1699-4F9E-942D-CDCA13137B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240DBFAF-1699-4F9E-942D-CDCA13137B97}.Release|x64.ActiveCfg = Release|Any CPU
+		{240DBFAF-1699-4F9E-942D-CDCA13137B97}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B05FFCCE-377E-4395-B70D-4D7B6E4E54DE}
+	EndGlobalSection
+EndGlobal
